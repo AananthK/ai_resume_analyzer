@@ -1,3 +1,4 @@
+# Requirements
 ### Functional Requirements
 - The user must be able to upload a resume (PDF).
 - The user must be able to paste or upload a job description.
@@ -6,7 +7,7 @@
 - The system must display missing skills or keywords.
 - The system must score the match percentage (resume feedback).
 
-Functional requirements are also represented in a [use-case diagram](../docs/AI_resume_analyzer_use_cases.pdf).
+Functional requirements are also represented in a [use-case diagram](../docs/AI_Resume_Analyzer_Use_Case_D.png).
 
 ### Non-Functional Requirements
 - The app must load results in < 5 seconds for most resumes.
